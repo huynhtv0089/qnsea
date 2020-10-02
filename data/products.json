@@ -1,0 +1,387 @@
+{
+    "hai-san": [
+        {
+            "image": "/assets/img/muc-rim.jpg",
+            "name": "Mực rim",
+            "path": "muc-rim",
+            "price": "240000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ghe-rim.jpg",
+            "name": "Ghẹ rim",
+            "path": "ghe-rim",
+            "price": "210000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-du-muoi-man.jpg",
+            "name": "Cá đù muối mặn",
+            "path": "ca-du-muoi-man",
+            "price": "135000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-lao-rim.jpg",
+            "name": "Cá lao rim",
+            "path": "ca-lao-rim",
+            "price": "180000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-chi-vang-rim.jpg",
+            "name": "Cá chỉ vàng rim",
+            "path": "ca-chi-vang-rim",
+            "price": "180000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-chi-vang.jpg",
+            "name": "Cá chỉ vàng",
+            "path": "ca-chi-vang",
+            "price": "220000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-bo-rim.jpg",
+            "name": "Cá bò rim",
+            "path": "ca-bo-rim",
+            "price": "170000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-bo-nuong.jpg",
+            "name": "Cá bò nướng",
+            "path": "ca-bo-nuong",
+            "price": "230000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-lao.jpg",
+            "name": "Cá lao",
+            "path": "ca-lao",
+            "price": "220000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-duoi-kho.jpg",
+            "name": "Cá đuối khô",
+            "path": "ca-duoi-kho",
+            "price": "230000",
+            "mass": "kg"
+        },
+        {
+            "image": "",
+            "name": "Cá bò gù lớn",
+            "path": "ca-bo-gu-lon",
+            "price": "280000",
+            "mass": "kg"
+        },
+        {
+            "image": "",
+            "name": "Cá bò gù nhỏ",
+            "path": "ca-bo-gu-nho",
+            "price": "210000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-com-mot-nang.jpg",
+            "name": "Cá cơm 1 nắng",
+            "path": "ca-com-1-nang",
+            "price": "210000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-mai.jpg",
+            "name": "Cá mai",
+            "path": "ca-mai",
+            "price": "270000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/ca-mai-tam-me.jpg",
+            "name": "Cá mai tẩm mè",
+            "path": "ca-mai-tam-me",
+            "price": "250000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/muc-mot-nang.jpg",
+            "name": "Mực 1 nắng (4 con)",
+            "path": "muc-1-nang",
+            "price": "380000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/muc-xe.jpg",
+            "name": "Mực xe",
+            "path": "muc-xe",
+            "price": "220000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/muc-tam-1-tam.jpg",
+            "name": "Mực tầm 1 tấm",
+            "path": "muc-tam-1-tam",
+            "price": "85000",
+            "mass": "tấm"
+        },
+        {
+            "image": "/assets/img/muc-1kg-14-20.jpg",
+            "name": "Mực 1kg (14 -> 20 con)",
+            "path": "muc-1kg-14-20",
+            "price": "950000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/muc-1kg-7-10.jpg",
+            "name": "Mực 1kg (7 -> 10 con)",
+            "path": "muc-1kg-7-10",
+            "price": "1100000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/tom-kho-nho.jpg",
+            "name": "Tôm khô (nhỏ)",
+            "path": "tom-kho-nho",
+            "price": "500000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/tom-kho-trung.jpg",
+            "name": "Tôm khô (trung)",
+            "path": "tom-kho-trung",
+            "price": "600000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/tom-kho-lon.jpg",
+            "name": "Tôm khô (lớn)",
+            "path": "tom-kho-lon",
+            "price": "800000",
+            "mass": "kg"
+        }
+    ],
+    "nem": [
+        {
+            "image": "",
+            "name": "Nem que",
+            "path": "nem-que",
+            "price": "45000",
+            "mass": "que"
+        },
+        {
+            "image": "/assets/img/nem-chua.jpg",
+            "name": "Nem chua",
+            "path": "nem-chua",
+            "price": "30000",
+            "mass": "chiếc"
+        },
+        {
+            "image": "/assets/img/nem-cay.jpg",
+            "name": "Nem cay (1 cây 0,5kg)",
+            "path": "nem-cay",
+            "price": "90000",
+            "mass": "kg"
+        }
+    ],
+    "cha": [
+        {
+            "image": "/assets/img/cha-ram-tom-lon.jpg",
+            "name": "Chả ram tôm lớn (nguyên con)",
+            "path": "cha-ram-tom-lon",
+            "price": "180000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-ram-tom-dat.jpg",
+            "name": "Chả ram tôm đất (nhỏ)",
+            "path": "cha-ram-tom-dat-nho",
+            "price": "160000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-lua.jpg",
+            "name": "Chả lụa",
+            "path": "cha-lua",
+            "price": "200000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-bo.jpg",
+            "name": "Chả bò",
+            "path": "cha-bo",
+            "price": "320000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-chien.jpg",
+            "name": "Chả chiên (nguyên chất không pha)",
+            "path": "cha-chien",
+            "price": "140000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-ca-nhong.jpg",
+            "name": "Chả cá (Nhồng) - đặt trước 1 ngày",
+            "path": "cha-ca",
+            "price": "170000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-ca-hap.jpg",
+            "name": "Chả hấp (nguyên chất không pha)",
+            "path": "cha-hap",
+            "price": "140000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-ca-cuon-rau-ram.jpg",
+            "name": "Chả cá cuốn rau răm (Lớn)",
+            "path": "cha-ca-cuon-rau-ram-lon",
+            "price": "150000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/cha-ca-cuon-rau-ram-nho.jpg",
+            "name": "Chả cá cuốn rau răm (nhỏ)",
+            "path": "cha-ca-cuon-rau-ram-nhỏ",
+            "price": "90000",
+            "mass": "kg"
+        }
+    ],
+    "banh-trang": [
+        {
+            "image": "/assets/img/banh-trang.jpg",
+            "name": "Bánh tráng (mỏng - dùng cuốn chả)",
+            "path": "banh-trang",
+            "price": "55000",
+            "mass": "ràng"
+        },
+        {
+            "image": "/assets/img/banh-trang-nuoc-dua.jpg",
+            "name": "Bánh tráng nước dừa",
+            "path": "banh-trang-nuoc-dua",
+            "price": "65000",
+            "mass": "ràng"
+        },
+        {
+            "image": "/assets/img/banh-trang-re-dua.jpg",
+            "name": "Bánh tráng rế dừa",
+            "path": "banh-trang-re-dua",
+            "price": "30000",
+            "mass": "bì"
+        }
+    ],
+    "nuoc-mam": [
+        {
+            "image": "/assets/img/nuoc-mam-ngon.jpg",
+            "name": "Nước nắm ngon",
+            "path": "nuoc-man-ngon",
+            "price": "60000",
+            "mass": "lít"
+        },
+        {
+            "image": "/assets/img/mam-muc.jpg",
+            "name": "Mắm mực",
+            "path": "mam-muc",
+            "price": "40000",
+            "mass": "hủ"
+        },
+        {
+            "image": "/assets/img/mam-ruot.jpg",
+            "name": "Mắm ruột",
+            "path": "mam-ruot",
+            "price": "40000",
+            "mass": "hủ"
+        },
+        {
+            "image": "/assets/img/mam-ruoc.jpg",
+            "name": "Mắm ruốc",
+            "path": "mam-ruoc",
+            "price": "40000",
+            "mass": "hủ"
+        },
+        {
+            "image": "/assets/img/mam-nem.jpg",
+            "name": "Mắm nêm",
+            "path": "mam-nem",
+            "price": "40000",
+            "mass": "hủ"
+        },
+        {
+            "image": "/assets/img/mam-ca-thu-xay.jpg",
+            "name": "Mắm cá thu xay",
+            "path": "mam-ca-thu-xay",
+            "price": "85000",
+            "mass": "hủ"
+        },
+        {
+            "image": "/assets/img/mam-ca-thu-lat.jpg",
+            "name": "Mắm cá thu lát",
+            "path": "mam-ca-thu-lat",
+            "price": "75000",
+            "mass": "hủ"
+        }
+    ],
+    "ruou": [
+        {
+            "image": "/assets/img/ruou-gao.jpg",
+            "name": "Rượu gạo",
+            "path": "ruou-gao",
+            "price": "35000",
+            "mass": "lit"
+        },
+        {
+            "image": "/assets/img/ruou-nep.jpg",
+            "name": "Rượu nếp",
+            "path": "ruou-nep",
+            "price": "45000",
+            "mass": "lit"
+        },
+        {
+            "image": "/assets/img/ruou-dau-xanh.jpg",
+            "name": "Rượu đậu xanh",
+            "path": "ruou-dau-xanh",
+            "price": "55000",
+            "mass": "lit"
+        }
+    ],
+    "do-an-kho": [
+        {
+            "image": "/assets/img/banh-it-la-gai.jpg",
+            "name": "Bánh ít lá gai",
+            "path": "banh-it-la-gai",
+            "price": "3000",
+            "mass": "cái"
+        },
+        {
+            "image": "/assets/img/banh-hong.jpg",
+            "name": "Bánh hồng",
+            "path": "banh-hong",
+            "price": "80000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/kho-ga-la-chanh.jpg",
+            "name": "Khô gà lá chanh",
+            "path": "kho-ga-la-chanh",
+            "price": "185000",
+            "mass": "kg"
+        },
+        {
+            "image": "/assets/img/tre.jpg",
+            "name": "Tré",
+            "path": "tre",
+            "price": "35000",
+            "mass": "cây"
+        },
+        {
+            "image": "/assets/img/rong-bien-kho.jpg",
+            "name": "Rong biển khô",
+            "path": "rong-bien-kho",
+            "price": "370000",
+            "mass": "kg"
+        }
+    ]
+}
